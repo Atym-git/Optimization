@@ -273,9 +273,6 @@ PlayerSettings:
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
-  androidAppCategory: 3
-  useAndroidAppCategory: 1
-  androidAppCategoryOther: 
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
@@ -842,7 +839,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: OptimizationTA
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -850,7 +847,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: OptimizationTA
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: OptimizationTA
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
